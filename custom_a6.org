@@ -1,0 +1,5 @@
+#+LANGUAGE: Russian
+#+LATEX_CLASS: custom
+#+LATEX_CLASS_OPTIONS: [14pt, russian, english]
+#+LATEX_COMPILER: xelatex
+#+LATEX_HEADER_EXTRA: \usepackage[a6paper]{geometry}
