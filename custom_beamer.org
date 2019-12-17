@@ -1,0 +1,12 @@
+#+AUTHOR: Paul Stern
+#+LANGUAGE: Russian
+# #+LATEX_CLASS: custom
+#+LATEX_CLASS_OPTIONS: [14pt, russian, english]
+#+LATEX_COMPILER: xelatex
+# #+LATEX_HEADER_EXTRA: \usepackage[a6paper]{geometry}
+#+LATEX_HEADER_EXTRA: \usepackage{fontspec}
+# #+LATEX_HEADER_EXTRA: \setmainfont{Source Serif Pro}
+# #+LATEX_HEADER_EXTRA: \fontspec{Source Serif Pro}
+#+LATEX_HEADER_EXTRA: \setsansfont{Source Serif Pro}
+
+
