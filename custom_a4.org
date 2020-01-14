@@ -1,0 +1,5 @@
+#+LANGUAGE: Russian
+#+LATEX_CLASS: custom
+#+LATEX_CLASS_OPTIONS: [11pt, russian, english, a4paper]
+#+LATEX_COMPILER: xelatex
+# #+LATEX_HEADER_EXTRA: \usepackage[a4paper]{geometry}
